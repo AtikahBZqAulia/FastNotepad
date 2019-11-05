@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recycle_bin">RecycleBinActivity</string>
+    <string name="settings_item">Settings</string>
+    <string name="folders_item">Folders</string>
+    <string name="colors_item">Colors</string>
+    <string name="recycle_bin_item">Recycle Bin</string>
+    <string name="my_notes_item">My Notes</string>
+</resources>
